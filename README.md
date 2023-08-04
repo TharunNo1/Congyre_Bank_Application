@@ -11,9 +11,11 @@ The challenge requires the participants to work in teams and develop a command l
 To run the application locally, follow these instructions:
 
 1. Prerequisites: Make sure you have Java Development Kit (JDK) installed on your system.
+   
 2. Clone this repository: Use the following command to clone the repository to your local machine.
    
 `git clone https://github.com/TharunNo1/Congyre_Bank_Application.git`
+
 3. Open the project in IntelliJ IDE and Click Run.
 
 ## Contact Us
